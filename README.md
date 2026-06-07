@@ -2,6 +2,8 @@
 
 **Fitting Marginals and Copulas to the VMLS Portfolio**
 
+**claude.ai and the 544_Notebooks were used to assist this homewokr**
+
 ## Contents
 
 | File | Description |
